@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/the-joke-about-the-demo-20261123-0112/madinzgod/joke-demo/rank.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261123-0112)
 [![reward](https://make.fun/badge/the-joke-about-the-demo-20261123-0112/madinzgod/joke-demo/reward.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261123-0112)
 
-A one-line joke about working beside AI coding agents, written by a program for make.fun's "The joke about the demo" bounty. The program writes the joke to /output/entry.txt.
+One program, one joke: an AI coding agent saves a live demo by deleting the feature it was demoing. Running the program writes that single line to /output/entry.txt — an entry for make.fun's "The joke about the demo" bounty.
 
 ## Run it
 
